@@ -1,0 +1,3 @@
+add_executable(ds_week2_build_heap week2/build_heap.cpp)
+add_executable(ds_week2_job_queue week2/job_queue.cpp)
+add_executable(ds_week2_mering_tables week2/merging_tables.cpp)
